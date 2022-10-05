@@ -1,0 +1,11 @@
+C:\Users\30053736\Source\Repos\IcarusRepairs\bin\Debug\IcarusRepairs.exe.config
+C:\Users\30053736\Source\Repos\IcarusRepairs\bin\Debug\IcarusRepairs.exe
+C:\Users\30053736\Source\Repos\IcarusRepairs\bin\Debug\IcarusRepairs.pdb
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.csproj.AssemblyReference.cache
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.csproj.SuggestedBindingRedirects.cache
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.FormIcarusRepairs.resources
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.Properties.Resources.resources
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.csproj.GenerateResource.cache
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.csproj.CoreCompileInputs.cache
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.exe
+C:\Users\30053736\Source\Repos\IcarusRepairs\obj\Debug\IcarusRepairs.pdb
